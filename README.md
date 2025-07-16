@@ -29,15 +29,14 @@ This is an AI-powered application that **extracts**, **simplifies**, and **styli
 
 ## 📸 Screenshot
 
-![Sample Output](example_output.png) <!-- Optional if you add screenshot -->
+![Sample Output](example_output.png) 
 
 ---
 
 ## 🧪 Try it Now
 
-> 🔗 [Click here to open in Google Colab](https://colab.research.google.com/drive/YOUR_FILE_ID_HERE)
+> 🔗 [Click here to open in Google Colab](https://colab.research.google.com/drive/1jJNZoiMyKxHGqjlQujs-0ybJahHE8xPt#scrollTo=6IjVQ3_I8QJT)
 
-_Replace `YOUR_FILE_ID_HERE` with your Colab notebook ID (see Part 3 below)_
 
 ---
 
@@ -61,7 +60,7 @@ _Replace `YOUR_FILE_ID_HERE` with your Colab notebook ID (see Part 3 below)_
 
 ## 👨‍💻 Author
 
-Kingsuk Ghosh – Student, Developer, and AI Enthusiast  
+Kingsuk Ghosh – Student, Data Analytics and AI Enthusiast  
 📍 Kolkata, India
 
 ---
