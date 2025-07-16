@@ -1,0 +1,7 @@
+gradio
+transformers
+pillow
+python-docx
+pytesseract
+PyMuPDF
+langdetect
