@@ -29,7 +29,7 @@ This is an AI-powered application that **extracts**, **simplifies**, and **styli
 
 ## 📸 Screenshot
 
-![Sample Output](example_output.png) 
+![Sample Output](OUTPUT.png) 
 
 ---
 
